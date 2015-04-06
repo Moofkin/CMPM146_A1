@@ -1,0 +1,20 @@
+             XXXXXXXXXXXXXXXXXXX
+       XXXXXXXXXXX g XXXXXXXXXXX
+      XXXXXXXXXX          XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXX               f XXXXXXXXXXXXXXX
+X                                        XX
+X                     XXXXXXXXXXXXXXXXXX XX
+X   a                 X                X XX
+X                     X XXXXXXXXXXXX X X XX
+X                     X X  e           X XX         
+X                     X XXXXXXXXXXXXXXXX XX
+X                     X                  XX
+X                     XXXXXXXXXXXXXXXXXX XX
+X                                        XX
+X                     XXXXXXXXXXXXXXXXXXXXX
+X                XXXXXXXXXXXXXXXXXXXX d  XX
+X     b                XXXXXXXXXXXXXXXX XX
+X                XXXXXX XXXXXXXXXXXXXX XXX
+X                XXXXXX XXXXXXXXXXXXX XXX
+XXXXXXXXXXXXXXXXXXXXXXXX             XXX    c
+                    XXXXXXXXXXXXXXXXXXXX

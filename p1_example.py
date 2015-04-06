@@ -5,7 +5,7 @@ from heapq import heappush, heappop
 
 def dijkstras_shortest_path(src, dst, graph, adj):
   
-  prev = {}
+    prev = {}
     dist = {}
     queue = []
     dist[src] = 0
@@ -51,58 +51,6 @@ def dijkstras_shortest_path(src, dst, graph, adj):
 
 
 
-
-
-
-  # queue = []
-
-   #  dist[src] = 0
-    # prev = {}
-    # prev[src] = None
-
-    # for v in graph:
-    #     if v != src:
-    #         dist[v] = float('inf')
-     #        prev[v] = None
-       #  heappush(v, queue)
-
-    # while queue:
-     #    u = dist[src]
-      # u =  heappop(u)
-     #  neighbors = adj(graph, u)
-      #   for v in neighbors:
-        #     #alt = dist[u] + 
-         #    if dist[node] < u:
-          #       u = dist[node]
-            #     node_to_be_removed = node
-
-
-    #queue = [src]
-
-    #while queue:
-        #node = queue.pop()
-
-        #if node == dst:
-            #break
-
-        #neighbors = adj(graph, node)
-        #for next_node in neighbors:
-            #if next_node not in prev:
-                #prev[next_node] = node
-                #queue.append(next_node)
-
-    #if node == dst:
-        #path = []
-        #while node:
-            #path.append(node)
-            #node = prev[node]
-        #path.reverse()
-        #return path
-    #else:
-        #return []
-
-
-
 def navigation_edges(level, cell):
     steps = []
     x, y = cell
@@ -136,4 +84,5 @@ if __name__ == '__main__':
 
     _, filename, src_waypoint, dst_waypoint = sys.argv
     test_route(filename, src_waypoint, dst_waypoint)
+
 
